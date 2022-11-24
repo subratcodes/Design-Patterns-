@@ -33,6 +33,8 @@ class PersonBuilder {
     }
 
     build() {
+
+      console.log(this)
         return new Person(this);
     }
 
