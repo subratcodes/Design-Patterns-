@@ -38,4 +38,6 @@ class PersonBuilder {
 
 }
 
-module.exports = PersonBuilder;
+module.exports ={
+  PersonBuilder
+};
