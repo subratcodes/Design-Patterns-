@@ -29,15 +29,6 @@ class LocalStorage{
 
 
 
-function adapter_pattern(){
-   
-
-
-
-
-
-  
-}
 
 
 
