@@ -1,5 +1,11 @@
 let {local}=require('./localStorage.js')
 
+
+
+
+//the adapter pattern acts a a bridge of a functionality which is not present in the 
+
+
 function adapter_pattern(){
 
   local.setItem(0,1)
@@ -14,4 +20,6 @@ function adapter_pattern(){
 }
 
 
-adapter_pattern()
+module.exports={
+  adapter_pattern
+}

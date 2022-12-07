@@ -27,11 +27,6 @@ class LocalStorage{
 
 
 
-
-
-
-
-
 //exports the module local storage.
 
 module.exports={
